@@ -4,7 +4,7 @@ Hello everyone,
 
 Here I will provide you with all my notes from the GHRCEM-computer department.
 
-This repository is mainly for the GHRCEM Students reference.
+This repository is mainly for the Raisoni (GHRCEM) Students reference.
 
 ## Features
 
