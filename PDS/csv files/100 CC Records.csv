@@ -1,0 +1,101 @@
+Card Type Code,Card Type Full Name,Issuing Bank,Card Number,Card Holder Name,CVV/CVV2,Issue Date,Expiry Date,Billing Date,Card PIN,Credit Limit
+DS,Discover,Discover,6.4802E+15,Brenda D Peterson,689,Jan-17,Jan-22,4,1998,22700
+DC,Diners Club International,Diners Club,3.02952E+13,Dawn U Reese,70,Dec-15,Dec-16,11,3915,12700
+DC,Diners Club International,Diners Club,3.00825E+13,Helen P Perry,709,Feb-07,Feb-20,13,2319,81900
+AX,American Express,Bank of America,3.4485E+14,Christine E Kim,3819,Aug-11,Aug-13,4,9017,77700
+JC,Japan Credit Bureau,JCB,3.58339E+15,Elizabeth Z Lopez,913,Nov-17,Nov-26,22,66,38300
+JC,Japan Credit Bureau,JCB,3.58739E+15,Nancy S Robles,217,Nov-15,Nov-29,12,2867,158000
+AX,American Express,American Express,3.7076E+14,Jesse J Perez,3555,Jun-15,Jun-32,25,8493,68000
+MC,Master Card,Wells Fargo,5.19545E+15,Jon O Reese,241,Jun-11,Jun-20,15,3907,41500
+DC,Diners Club International,Diners Club,3.01363E+13,Jeremy P Price,82,Aug-16,Aug-28,26,7665,47800
+DC,Diners Club International,Diners Club,3.02403E+13,Joe N Mccarty,509,Oct-15,Oct-27,12,5766,93300
+JC,Japan Credit Bureau,JCB,3.53068E+15,Billy O Bell,769,Jan-13,Jan-14,25,5208,37300
+MC,Master Card,Chase,5.19899E+15,Vincent M Fulton,220,Oct-13,Oct-22,24,23,95100
+JC,Japan Credit Bureau,JCB,3.52931E+15,Sandra H Adams,885,Aug-13,Aug-22,6,3030,50500
+VI,Visa,Chase,4.38108E+15,Edward Z Owen,487,Jan-10,Jan-15,3,1031,23300
+VI,Visa,Capital One,4.74399E+15,Jimmy V Baker,585,Feb-16,Feb-19,15,7835,100300
+JC,Japan Credit Bureau,JCB,3.55565E+15,Heather W Acosta,465,Feb-15,Feb-28,27,9382,13500
+DC,Diners Club International,Diners Club,3.00745E+13,Louis Martinez,120,Jul-07,Jul-21,26,5735,19500
+AX,American Express,American Express,3.41418E+14,Helen R Lucas,5798,Sep-17,Sep-20,1,3066,40100
+MC,Master Card,Citibank,5.49033E+15,Henry T Miller,864,Dec-17,Dec-27,15,3782,135600
+AX,American Express,American Express,3.45632E+14,Henry W Hewitt,525,May-11,May-23,25,7880,78700
+JC,Japan Credit Bureau,JCB,3.54174E+15,Janet Alexander,494,Sep-17,Sep-23,20,3722,119300
+DS,Discover,Discover,6.01157E+15,Jim X Ballard,56,Sep-10,Sep-29,1,1169,42900
+DS,Discover,Discover,6.01127E+15,Howard X Nelson,469,Feb-13,Feb-30,20,5784,29500
+VI,Visa,Chase,4.66406E+15,Eleanor Callahan,22,Mar-15,Mar-24,3,5442,167400
+DC,Diners Club International,Diners Club,3.61106E+13,Lillian M Green,851,Feb-07,Feb-21,4,2833,18900
+DC,Diners Club International,Diners Club,3.0179E+13,Judith I Rollins,583,Aug-14,Aug-31,24,937,85300
+JC,Japan Credit Bureau,JCB,3.5878E+15,Jeffrey J Barnes,337,Aug-15,Aug-23,2,7675,155600
+MC,Master Card,Capital One,5.39643E+15,Victor J Mercado,591,Sep-12,Sep-18,18,8687,27000
+VI,Visa,Barclays,4.42746E+15,Justin Y Coleman,807,Jun-07,Jun-08,24,8844,154800
+AX,American Express,USAA,3.45284E+14,Heather Wong,6812,Feb-12,Feb-20,6,8170,10700
+DS,Discover,Discover,6.01118E+15,Marilyn E Coleman,294,Oct-16,Oct-24,26,2677,188300
+MC,Master Card,Bank of America,5.27717E+15,Grace D Sparks,76,Jul-08,Jul-09,21,6076,170100
+DS,Discover,Discover,6.0118E+15,Donna A Rodriguez,545,Apr-09,Apr-20,21,1992,189200
+MC,Master Card,Barclays,5.23951E+15,Anita O Brennan,862,May-10,May-15,24,5281,83900
+VI,Visa,Chase,4.39191E+15,Jack Foster,717,Mar-15,Mar-21,3,4177,57300
+MC,Master Card,Capital One,5.22774E+15,Arthur Hines,374,Oct-13,Oct-23,24,5574,154800
+DC,Diners Club International,Diners Club,3.03039E+13,Diane R Ross,937,May-11,May-18,16,4008,177200
+JC,Japan Credit Bureau,JCB,3.54318E+15,Leonard K Browning,380,Nov-13,Nov-21,6,202,151400
+MC,Master Card,Barclays,5.47807E+15,Nancy C Cox,756,Jun-12,Jun-16,24,9008,187600
+MC,Master Card,Chase,5.20082E+15,Howard R Bernard,435,Jun-15,Jun-26,13,4804,143400
+MC,Master Card,Barclays,5.31498E+15,Phyllis H Johnson,614,Mar-15,Mar-24,18,7650,71000
+DS,Discover,Discover,6.01178E+15,Diane Carroll,619,Sep-13,Sep-26,26,7785,178700
+VI,Visa,Chase,4.42919E+15,Stephen H Ramirez,432,Dec-07,Dec-14,14,3233,77000
+DC,Diners Club International,Diners Club,3.094E+13,Alicia S Crawford,106,Jun-12,Jun-29,14,3702,38700
+MC,Master Card,Chase,5.36028E+15,Anthony C Sanchez,0,Jan-16,Jan-33,22,8731,31400
+JC,Japan Credit Bureau,JCB,3.54707E+15,Jennifer K Potts,740,Aug-10,Aug-15,24,3715,74900
+VI,Visa,Cabela’s WFB,4.66785E+15,Rachel V Jenkins,472,Aug-10,Aug-12,21,425,152300
+AX,American Express,American Express,3.74521E+14,Howard C Dunlap,7937,Jan-17,Jan-27,28,9677,187700
+AX,American Express,American Express,3.47364E+14,Gerald O Lee,3614,Aug-16,Aug-22,23,652,27400
+DC,Diners Club International,Diners Club,3.03453E+13,Dorothy H Le,379,Jun-07,Jun-22,8,913,135700
+DC,Diners Club International,Diners Club,3.68897E+13,Willie O King,19,Jun-14,Jun-33,27,2447,61700
+JC,Japan Credit Bureau,JCB,3.57688E+15,David Z Hood,596,Apr-17,Apr-21,25,5263,42200
+MC,Master Card,Chase,5.4535E+15,Aaron Z Ramirez,858,Apr-11,Apr-25,24,1434,52500
+MC,Master Card,Citibank,5.17532E+15,Christina G Francis,756,Apr-17,Apr-24,13,8442,12000
+AX,American Express,American Express,3.79863E+14,Cynthia Evans,995,Aug-17,Aug-34,25,2735,55700
+DS,Discover,Discover,6.01195E+15,Paula E Head,416,Jul-17,Jul-26,27,8279,98000
+AX,American Express,American Express,3.70138E+14,Jeremy N White,9594,Jul-09,Jul-16,4,3248,199000
+DC,Diners Club International,Diners Club,3.89164E+13,Don P Wooten,423,May-15,May-16,4,2913,198800
+MC,Master Card,Chase,5.243E+15,Robert A Long,890,Aug-07,Aug-26,15,2078,134900
+MC,Master Card,GE Capital,5.27916E+15,Stanley K Hopper,844,Nov-13,Nov-16,12,4482,80500
+MC,Master Card,Wells Fargo,5.34735E+15,Jeremy O Wilson,306,Dec-07,Dec-08,3,4448,19800
+DS,Discover,Discover,6.50377E+15,Joyce B Warren,105,Jan-07,Jan-20,18,2394,148600
+MC,Master Card,Chase,5.18568E+15,Margaret T Ramirez,833,Jan-09,Jan-18,6,6900,195100
+AX,American Express,American Express,3.46716E+14,Marcus D Ashley,2302,Apr-13,Apr-21,6,2724,28400
+MC,Master Card,Barclays,5.36168E+15,Frances S Henderson,371,Jun-14,Jun-26,16,4097,28100
+AX,American Express,American Express,3.44774E+14,Randall Z Lott,7026,Nov-13,Nov-21,28,2813,44800
+AX,American Express,American Express,3.71048E+14,Craig Gonzalez,3664,Aug-15,Aug-25,1,40,30700
+DS,Discover,Discover,6.01128E+15,Annie R House,912,Jun-11,Jun-21,1,2612,95300
+JC,Japan Credit Bureau,JCB,3.5746E+15,Patricia Williams,147,Apr-15,Apr-27,8,9007,13100
+VI,Visa,Citibank,4.66226E+15,Mario D Blanchard,703,Mar-16,Mar-22,15,6865,151200
+JC,Japan Credit Bureau,JCB,3.55525E+15,Judith Y Ross,762,Feb-13,Feb-31,17,4037,145600
+MC,Master Card,Chase,5.15253E+15,Allen Rodgers,155,Oct-15,Oct-20,9,4658,17300
+AX,American Express,American Express,3.46078E+14,Rebecca Jenkins,2963,Feb-14,Feb-20,22,3262,65000
+VI,Visa,Chase,4.37127E+15,Francis Koch,813,Nov-16,Nov-25,9,5422,18700
+JC,Japan Credit Bureau,JCB,3.54341E+15,Linda T Brown,878,Oct-14,Oct-22,20,6905,139900
+DC,Diners Club International,Diners Club,3.00184E+13,Amanda L Soto,751,Apr-07,Apr-20,17,2941,150100
+DC,Diners Club International,Diners Club,3.09996E+13,Laura W Richardson,283,Apr-15,Apr-35,5,253,126600
+MC,Master Card,Capital One,5.31769E+15,Henry W Ballard,353,Mar-12,Mar-28,12,1432,21500
+AX,American Express,American Express,3.41729E+14,Rachel Turner,2134,Jul-15,Jul-28,19,421,186700
+DS,Discover,Discover,6.4608E+15,Craig X Keith,177,May-16,May-24,4,257,82100
+MC,Master Card,Bank of America,5.19749E+15,Bobby F Walker,351,Oct-15,Oct-24,19,7212,162200
+DC,Diners Club International,Diners Club,3.0183E+13,Eleanor Crane,332,Oct-14,Oct-17,26,6331,88300
+DC,Diners Club International,Diners Club,3.03166E+13,Laura N Jackson,506,Nov-15,Nov-24,16,900,83900
+MC,Master Card,Bank of America,5.18437E+15,Kristen Frank,944,Apr-11,Apr-17,18,5784,145400
+MC,Master Card,Chase,5.3995E+15,Rose Jenkins,77,Jun-08,Jun-19,26,2235,184500
+JC,Japan Credit Bureau,JCB,3.55481E+15,Brandon B Boone,931,Nov-17,Nov-37,10,8949,192400
+MC,Master Card,Bank of America,5.35309E+15,Keith Z Morris,226,Aug-08,Aug-26,28,2482,65800
+VI,Visa,U.S. Bancorp,4.46542E+15,Mark Y Sheppard,720,Nov-09,Nov-14,10,5230,124500
+MC,Master Card,Capital One,5.26144E+15,Ronald R Stewart,826,Dec-17,Dec-24,24,3823,139100
+VI,Visa,GE Capital,4.53069E+15,Vincent U Jordan,481,Mar-13,Mar-19,15,6913,129300
+AX,American Express,American Express,3.71829E+14,Walter B Lopez,4580,Sep-09,Sep-12,27,2909,140400
+VI,Visa,Citibank,4.5467E+15,Paula R Bryan,943,Apr-09,Apr-27,15,3492,102900
+VI,Visa,Citibank,4.33706E+15,Kathy Robinson,489,Mar-11,Mar-19,18,2905,25800
+MC,Master Card,Chase,5.28596E+15,Sean J Young,336,Feb-10,Feb-12,10,556,101400
+DC,Diners Club International,Diners Club,3.03184E+13,Charles R Brooks,324,Jan-11,Jan-17,23,1808,44600
+DS,Discover,Discover,6.012E+15,William N French,500,Oct-16,Oct-26,23,9815,25600
+DC,Diners Club International,Diners Club,3.04684E+13,Alice G Mitchell,878,Sep-11,Sep-12,3,7377,68000
+VI,Visa,Chase,4.87155E+15,Sandra N Parrish,479,Jun-08,Jun-11,6,9321,20300
+JC,Japan Credit Bureau,JCB,3.54066E+15,Jennifer T Turner,256,Jul-10,Jul-16,1,1473,198200
+AX,American Express,American Express,3.73818E+14,Charles R Farrell,6890,Oct-12,Oct-30,8,5444,71400
