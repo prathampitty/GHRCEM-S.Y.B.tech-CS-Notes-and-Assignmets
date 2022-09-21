@@ -1,0 +1,31 @@
+
+-- -- create
+-- CREATE TABLE STUDENT (
+--   STDROLLNO INTEGER PRIMARY KEY,
+--   name TEXT NOT NULL,
+--   dept TEXT NOT NULL,
+--   domain TEXT NOT NULL
+-- );
+-- -- drop STUDENT
+-- -- ALTER TABLE STUDENT ADD Address (Address varchar 2(20));    
+-- -- TRUNCATE TABLE STUDENT; 
+
+
+-- -- Data Manipulation Language
+-- -- insert
+-- INSERT INTO STUDENT VALUES (77, 'pratham', 'cs','web development');
+-- INSERT INTO STUDENT VALUES (78, 'rajas', 'cs ','ML');
+-- INSERT INTO STUDENT VALUES (86, 'rudraksh','CS,','ML');
+
+-- -- SELECT 
+-- SELECT * FROM STUDENT WHERE domain = 'ML';
+
+-- UPDATE STUDENT
+-- SET  name ='pratham pitty'
+-- WHERE STDROLLNO ='77'
+-- SELECT * FROM STUDENT WHERE domain = 'ML';
+
+crete table students(stdid , stdname varchar(20), stdphoneno varchar(20));
+
+
+

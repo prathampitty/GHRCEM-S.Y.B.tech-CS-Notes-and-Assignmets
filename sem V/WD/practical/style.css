@@ -1,0 +1,28 @@
+body {
+    background-color: grey;
+    background-image: url("image1.jpeg");
+    color: blue;
+    height: 100%;
+    width: auto;
+    
+  }
+  p {
+    font-family: verdana;
+    font-size: 50px;
+  }
+  div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+  h1 {
+    color: green;
+  }
+   
+  ul.a {
+    list-style-type: circle;
+  }
+  ol.c {
+    list-style-type: upper-roman;
+  }
